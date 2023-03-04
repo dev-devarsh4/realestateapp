@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "352979004976",
+    "project_id": "ram-vihar-library-dev",
+    "storage_bucket": "ram-vihar-library-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352979004976:android:ab438388a517c8151987f5",
+        "android_client_info": {
+          "package_name": "com.ramviharlibrary.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352979004976-9jn47lalibnifb3rqgef74sg430rql3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIEw5if4Imn818xRl530lIq3M0qsm1f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352979004976-9jn47lalibnifb3rqgef74sg430rql3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352979004976-85obo9278qn68m0j7mjgom62kffuv8ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ramvihar.staging"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352979004976:android:80c92d2e6e58991d1987f5",
+        "android_client_info": {
+          "package_name": "com.ramviharlibrary.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352979004976-9jn47lalibnifb3rqgef74sg430rql3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnIEw5if4Imn818xRl530lIq3M0qsm1f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352979004976-9jn47lalibnifb3rqgef74sg430rql3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "352979004976-85obo9278qn68m0j7mjgom62kffuv8ia.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ramvihar.staging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

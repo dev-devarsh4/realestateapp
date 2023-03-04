@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "86230763579",
+    "project_id": "ram-vihar-library",
+    "storage_bucket": "ram-vihar-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86230763579:android:b7fd6801de85efbe11b41e",
+        "android_client_info": {
+          "package_name": "com.ramviharlibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86230763579-ekurpaq9rs20bi3m5a0hkid3vq1mtfrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB18Cs_nBCkR9U4pJXOEDmZkRUQmhbIu1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86230763579-ekurpaq9rs20bi3m5a0hkid3vq1mtfrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86230763579-4jl06cdnisu6fpm82smfntcis6kkaopl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ramviharlibrary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
